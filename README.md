@@ -132,11 +132,4 @@ pip install pandas matplotlib PyPDF2
 - [Pandas Documentation](https://pandas.pydata.org/)
 - [Matplotlib Documentation](https://matplotlib.org/)
 
-## 👤 Autor
-
-Desarrollado como parte de ejercicios de programación en Python.
-
----
-
-⭐ Si encuentras útil este repositorio, ¡no olvides darle una estrella!
 
